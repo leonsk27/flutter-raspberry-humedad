@@ -65,4 +65,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'raspberry-sensores-v1a.firebasestorage.app',
     iosBundleId: 'com.example.bestFlutterUiTemplates',
   );
+
 }
